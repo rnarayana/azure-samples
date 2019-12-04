@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventReceiver", "EventReceiver\EventReceiver.csproj", "{754491B5-74FE-450B-8973-53DD99744C8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventReceiver", "EventReceiver\EventReceiver.csproj", "{30DDC626-F120-4857-9216-EED6F92AD768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{754491B5-74FE-450B-8973-53DD99744C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{754491B5-74FE-450B-8973-53DD99744C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{754491B5-74FE-450B-8973-53DD99744C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{754491B5-74FE-450B-8973-53DD99744C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DDC626-F120-4857-9216-EED6F92AD768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DDC626-F120-4857-9216-EED6F92AD768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DDC626-F120-4857-9216-EED6F92AD768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DDC626-F120-4857-9216-EED6F92AD768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {890EF311-617D-4F22-9C98-DCFEA5706315}
+		SolutionGuid = {7DEB3356-DBF4-4D4D-BB0D-1F77AD79B838}
 	EndGlobalSection
 EndGlobal
